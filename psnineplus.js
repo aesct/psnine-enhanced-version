@@ -1,4 +1,5 @@
 // ==UserScript==
+
 // @name         PSN中文网功能增强
 // @namespace    https://swsoyee.github.io
 // @version      0.9.25
